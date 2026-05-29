@@ -43,8 +43,8 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Supported languages
 
 | Language | Extension |
-| Java | `.java` |
-
+|----------|-----------|
+| Java     | `.java`    |
 ---
 
 ## Settings
